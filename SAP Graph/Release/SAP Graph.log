@@ -1,0 +1,38 @@
+﻿Построение начато 22.03.2016 10:56:26.
+     1>Проект "C:\Users\Karss\YandexDisk\USATU\Kursach\SAP Graph\SAP Graph\SAP Graph.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\SAP Graph.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\SAP Graph.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "SAP Graph.cpp" /clr:nostdlib 
+         SAP Graph.cpp
+     1>c:\users\karss\yandexdisk\usatu\kursach\sap graph\sap graph\Graph.h(37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\karss\yandexdisk\usatu\kursach\sap graph\sap graph\Graph.h(37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\karss\yandexdisk\usatu\kursach\sap graph\sap graph\Graph.h(80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\karss\yandexdisk\usatu\kursach\sap graph\sap graph\Graph.h(80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Karss\YandexDisk\USATU\Kursach\SAP Graph\Release\SAP Graph.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\SAPGraph.Form1.resources /ASSEMBLYRESOURCE:Release\SAPGraph.Form2.resources /ASSEMBLYRESOURCE:Release\SAPGraph.NewProj.resources /MANIFEST /ManifestFile:"Release\SAP Graph.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Karss\YandexDisk\USATU\Kursach\SAP Graph\Release\SAP Graph.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\Form2.obj
+         Release\NewProj.obj
+         "Release\SAP Graph.obj"
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         SAP Graph.vcxproj -> C:\Users\Karss\YandexDisk\USATU\Kursach\SAP Graph\Release\SAP Graph.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Karss\YandexDisk\USATU\Kursach\SAP Graph\Release\SAP Graph.exe;#1" /manifest "Release\SAP Graph.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\SAP Graph.unsuccessfulbuild" удаляется.
+         Обращение к "Release\SAP Graph.lastbuildstate".
+     1>Построение проекта "C:\Users\Karss\YandexDisk\USATU\Kursach\SAP Graph\SAP Graph\SAP Graph.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.89
